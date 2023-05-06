@@ -48,7 +48,9 @@ public class AdminController{
             adminService.deleteAdmin(id);
             return ResponseEntity.ok(ResponseDTO.of("successfully deleted"));
         } catch (Exception ex) {
+            ex.printStackTrace();
             return ResponseEntity.ok(ResponseDTO.of("an error occured"));
+
         }
     }
 }

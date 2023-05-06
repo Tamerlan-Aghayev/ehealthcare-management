@@ -43,6 +43,8 @@
 			<artifactId>spring-security-oauth2</artifactId>
 			<version>2.4.1.RELEASE</version>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.springframework.security/spring-security-oauth2-client -->
+
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
@@ -53,7 +55,7 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
-			<version>2.1.9.RELEASE</version>
+			<version>2.3.7.RELEASE</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/org.springframework.security/spring-security-jwt -->
 		<dependency>
