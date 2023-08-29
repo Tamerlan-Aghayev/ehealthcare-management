@@ -4,3 +4,13 @@ Developed back-end system that serve registration of doctors and their patients 
 Used MySQL, Hibernate, JPA, REST API and Spring Data to create and interact with database
 Set Spring security  and oauth2 tokens to allow only admins to modify the data in database
 For testing purposes, unit and integration testing are used.
+Tecnhologies:
+Java
+JPA
+SpringBoot
+SpringData
+Spring Security
+Unit and Integration testing
+MySQL
+Hibernate
+REST API
